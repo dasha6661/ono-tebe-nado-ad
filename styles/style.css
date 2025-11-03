@@ -149,6 +149,7 @@
 }
 
 .aligned-text_center {
+  align-self: center;
   margin-top: 0;
   margin-right: 78px;
   margin-bottom: 0;
